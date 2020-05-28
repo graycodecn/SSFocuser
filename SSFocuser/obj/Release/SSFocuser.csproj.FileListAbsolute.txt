@@ -1,0 +1,51 @@
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Release\ASCOM.SSFocuser.CoverSetting.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Release\ASCOM.SSFocuser.FocuserToolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Release\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Release\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Release\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Release\ASCOM.SSFocuser.FocuserToolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Release\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Release\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Release\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Release\ASCOM.SSFocuser.AboutBox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Toolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.JoinUsForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll.config
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\SSFSCP.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.JoinUsForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Properties.Resources.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll.config
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Release\SSFSCP.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.JoinUsForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Properties.Resources.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Release\SSFocuser.csproj.GenerateResource.Cache
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Release\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Release\SSFocuser.csprojResolveAssemblyReference.cache
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Release\SSFocuser.csproj.GenerateResource.Cache

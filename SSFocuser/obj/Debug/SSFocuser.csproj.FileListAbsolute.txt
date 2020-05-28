@@ -1,0 +1,101 @@
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.FocuserToolbox.resources
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+C:\Users\Administrator\Desktop\SSFocuser - 20180125\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.FocuserToolbox.resources
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+C:\Users\Administrator\Desktop\SSFocuser - 20180126\SSFocuser - 20180125\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\obj\Debug\SSFocuser.csprojResolveAssemblyReference.cache
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\obj\Debug\ASCOM.SSFocuser.FocuserToolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser - 20180203a\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Debug\ASCOM.SSFocuser.CoverSetting.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Debug\ASCOM.SSFocuser.FocuserToolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuserV1.1\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\ASCOM.SSFocuser.AboutBox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\ASCOM.SSFocuser.FocuserToolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser - Public\SSFocuser\obj\Debug\SSFocuser.csprojResolveAssemblyReference.cache
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.AboutBox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Toolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser20190928\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Toolbox.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.JoinUsForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\Projects\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Debug\SSFSCP.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ResolveAssemblyReference.cache
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.JoinUsForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\GenerateResource.read.1.tlog
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\GenerateResource.write.1.tlog
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll.config
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Debug\SSFSCP.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Debug\SSFocuser.csprojResolveAssemblyReference.cache
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.JoinUsForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Properties.Resources.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.SetupDialogForm.resources
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Debug\SSFocuser.csproj.GenerateResource.Cache
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.dll
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\obj\Debug\ASCOM.SSFocuser.Focuser.pdb
+D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\SSFocuser\bin\Debug\ASCOM.SSFocuser.Focuser.tlb
