@@ -16,7 +16,8 @@ MinVersion=0,5.0.2195sp4
 DefaultDirName="{cf}\ASCOM\Focuser"
 DisableDirPage=yes
 DisableProgramGroupPage=yes
-OutputDir="."
+;OutputDir="."
+OutputDir="../"
 OutputBaseFilename="SS Focuser Setup v2.0.0"
 Compression=lzma
 SolidCompression=yes
@@ -34,11 +35,11 @@ Name: "{cf}\ASCOM\Uninstall\Focuser\SS Focuser"
 ; TODO: Add subfolders below {app} as needed (e.g. Name: "{app}\MyFolder")
 
 [Files]
-Source: "D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll"; DestDir: "{app}"
+Source: "D:\wk\CSharp\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\ASCOM.SSFocuser.Focuser.dll"; DestDir: "{app}"
 ; Require a read-me HTML to appear after installation, maybe driver's Help doc
-Source: "D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\ReadMe.htm"; DestDir: "{app}"; Flags: isreadme
+Source: "D:\wk\CSharp\ASCOM\Focuser\SSFocuser\SSFocuser\ReadMe.htm"; DestDir: "{app}"; Flags: isreadme
 ; TODO: Add other files needed by your driver here (add subfolders above)
-Source: "D:\wk\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\SSFSCP.dll"; DestDir: "{app}"
+Source: "D:\wk\CSharp\ASCOM\Focuser\SSFocuser\SSFocuser\bin\Release\SSFSCP.dll"; DestDir: "{app}"
 
 ; Only if driver is .NET
 [Run]
