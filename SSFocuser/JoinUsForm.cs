@@ -19,7 +19,6 @@ namespace ASCOM.SSFocuser
         private void linkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             System.Diagnostics.Process.Start("http://www.fhxy.com");
-            System.Diagnostics.Process.Start("http://www.graycode.cn");
         }
 
     }
