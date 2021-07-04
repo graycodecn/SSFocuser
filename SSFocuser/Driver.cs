@@ -191,10 +191,17 @@ namespace ASCOM.SSFocuser
 
             using (SetupDialogForm F = new SetupDialogForm())
             {
-                var result = F.ShowDialog();
-                if (result == System.Windows.Forms.DialogResult.OK)
+                try
                 {
-                    WriteProfile(); // Persist device configuration values to the ASCOM Profile store
+                    var result = F.ShowDialog();
+                    if (result == System.Windows.Forms.DialogResult.OK)
+                    {
+                        WriteProfile(); // Persist device configuration values to the ASCOM Profile store
+                    }
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show(e.ToString());
                 }
             }
         }
