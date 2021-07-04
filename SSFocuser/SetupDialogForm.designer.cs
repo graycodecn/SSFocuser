@@ -43,6 +43,7 @@ namespace ASCOM.SSFocuser
             this.linkLabelJoinUs = new System.Windows.Forms.LinkLabel();
             this.checkBoxPC2Focuser = new System.Windows.Forms.CheckBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.labelUID = new System.Windows.Forms.Label();
             this.labelTel = new System.Windows.Forms.Label();
             this.labelEmail = new System.Windows.Forms.Label();
             this.labelWebsite = new System.Windows.Forms.Label();
@@ -71,7 +72,7 @@ namespace ASCOM.SSFocuser
             // 
             this.cmdOK.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cmdOK.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.cmdOK.Location = new System.Drawing.Point(107, 280);
+            this.cmdOK.Location = new System.Drawing.Point(107, 300);
             this.cmdOK.Name = "cmdOK";
             this.cmdOK.Size = new System.Drawing.Size(60, 25);
             this.cmdOK.TabIndex = 0;
@@ -83,7 +84,7 @@ namespace ASCOM.SSFocuser
             // 
             this.cmdCancel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.cmdCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.cmdCancel.Location = new System.Drawing.Point(212, 280);
+            this.cmdCancel.Location = new System.Drawing.Point(212, 300);
             this.cmdCancel.Name = "cmdCancel";
             this.cmdCancel.Size = new System.Drawing.Size(60, 25);
             this.cmdCancel.TabIndex = 1;
@@ -127,7 +128,7 @@ namespace ASCOM.SSFocuser
             // 
             this.linkLabel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.linkLabel.AutoSize = true;
-            this.linkLabel.Location = new System.Drawing.Point(67, 60);
+            this.linkLabel.Location = new System.Drawing.Point(67, 79);
             this.linkLabel.Name = "linkLabel";
             this.linkLabel.Size = new System.Drawing.Size(83, 12);
             this.linkLabel.TabIndex = 53;
@@ -221,6 +222,7 @@ namespace ASCOM.SSFocuser
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.labelUID);
             this.groupBox2.Controls.Add(this.labelTel);
             this.groupBox2.Controls.Add(this.labelEmail);
             this.groupBox2.Controls.Add(this.labelWebsite);
@@ -229,15 +231,24 @@ namespace ASCOM.SSFocuser
             this.groupBox2.Controls.Add(this.linkLabel);
             this.groupBox2.Location = new System.Drawing.Point(3, 3);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(323, 121);
+            this.groupBox2.Size = new System.Drawing.Size(323, 140);
             this.groupBox2.TabIndex = 59;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Device Information";
             // 
+            // labelUID
+            // 
+            this.labelUID.AutoSize = true;
+            this.labelUID.Location = new System.Drawing.Point(12, 40);
+            this.labelUID.Name = "labelUID";
+            this.labelUID.Size = new System.Drawing.Size(35, 12);
+            this.labelUID.TabIndex = 59;
+            this.labelUID.Text = "UID: ";
+            // 
             // labelTel
             // 
             this.labelTel.AutoSize = true;
-            this.labelTel.Location = new System.Drawing.Point(12, 100);
+            this.labelTel.Location = new System.Drawing.Point(12, 120);
             this.labelTel.Name = "labelTel";
             this.labelTel.Size = new System.Drawing.Size(101, 12);
             this.labelTel.TabIndex = 58;
@@ -246,7 +257,7 @@ namespace ASCOM.SSFocuser
             // labelEmail
             // 
             this.labelEmail.AutoSize = true;
-            this.labelEmail.Location = new System.Drawing.Point(12, 80);
+            this.labelEmail.Location = new System.Drawing.Point(12, 100);
             this.labelEmail.Name = "labelEmail";
             this.labelEmail.Size = new System.Drawing.Size(155, 12);
             this.labelEmail.TabIndex = 57;
@@ -255,7 +266,7 @@ namespace ASCOM.SSFocuser
             // labelWebsite
             // 
             this.labelWebsite.AutoSize = true;
-            this.labelWebsite.Location = new System.Drawing.Point(12, 60);
+            this.labelWebsite.Location = new System.Drawing.Point(12, 80);
             this.labelWebsite.Name = "labelWebsite";
             this.labelWebsite.Size = new System.Drawing.Size(53, 12);
             this.labelWebsite.TabIndex = 56;
@@ -264,7 +275,7 @@ namespace ASCOM.SSFocuser
             // labelVendor
             // 
             this.labelVendor.AutoSize = true;
-            this.labelVendor.Location = new System.Drawing.Point(12, 40);
+            this.labelVendor.Location = new System.Drawing.Point(12, 60);
             this.labelVendor.Name = "labelVendor";
             this.labelVendor.Size = new System.Drawing.Size(149, 12);
             this.labelVendor.TabIndex = 55;
@@ -286,7 +297,7 @@ namespace ASCOM.SSFocuser
             this.tabControl1.Location = new System.Drawing.Point(10, 121);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(333, 152);
+            this.tabControl1.Size = new System.Drawing.Size(333, 172);
             this.tabControl1.TabIndex = 60;
             // 
             // tabPageDevice
@@ -295,7 +306,7 @@ namespace ASCOM.SSFocuser
             this.tabPageDevice.Location = new System.Drawing.Point(4, 22);
             this.tabPageDevice.Name = "tabPageDevice";
             this.tabPageDevice.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageDevice.Size = new System.Drawing.Size(325, 126);
+            this.tabPageDevice.Size = new System.Drawing.Size(325, 146);
             this.tabPageDevice.TabIndex = 0;
             this.tabPageDevice.Text = "Device";
             this.tabPageDevice.UseVisualStyleBackColor = true;
@@ -313,7 +324,7 @@ namespace ASCOM.SSFocuser
             this.tabPageInitialize.Location = new System.Drawing.Point(4, 22);
             this.tabPageInitialize.Name = "tabPageInitialize";
             this.tabPageInitialize.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageInitialize.Size = new System.Drawing.Size(325, 126);
+            this.tabPageInitialize.Size = new System.Drawing.Size(325, 146);
             this.tabPageInitialize.TabIndex = 1;
             this.tabPageInitialize.Text = "Initialize";
             this.tabPageInitialize.UseVisualStyleBackColor = true;
@@ -402,7 +413,7 @@ namespace ASCOM.SSFocuser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(370, 312);
+            this.ClientSize = new System.Drawing.Size(370, 332);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.cmdCancel);
@@ -461,5 +472,6 @@ namespace ASCOM.SSFocuser
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBoxVelocity;
+        private System.Windows.Forms.Label labelUID;
     }
 }

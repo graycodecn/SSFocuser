@@ -290,12 +290,7 @@ namespace ASCOM.SSFocuser
             }
             if (Focuser.connectedState)//已连接状态查看Setup
             {
-                labelDevice.ForeColor = System.Drawing.Color.Black;
-                labelDevice.Text = "Device: " + MySCP.Device;
-                labelVendor.Text = "Company: " + MySCP.Vendor;
-                linkLabel.Text = MySCP.Website;
-                labelEmail.Text = "Email: " + MySCP.Email;
-                labelTel.Text = "Tel: " + MySCP.Tel;
+                ShowLabel(true);
                 comboBoxcomPort.Enabled = false;
                 textBoxMaxStep.Enabled = false;
                 textBoxStepSize.Enabled = false;
@@ -316,7 +311,31 @@ namespace ASCOM.SSFocuser
 
             checkBoxPC2Focuser.Checked = Focuser.PC2Focuser;  
         }
-
+        private void ShowLabel(bool device)
+        {
+            if (device)
+            {
+                labelDevice.ForeColor = System.Drawing.Color.Black;
+                labelDevice.Text = "Device: " + MySCP.Device;
+                labelUID.Text = "UID: " + MySCP.SN;
+                labelVendor.Text = "Company: " + MySCP.Vendor;
+                linkLabel.Text = MySCP.Website;
+                labelEmail.Text = "Email: " + MySCP.Email;
+                labelTel.Text = "Tel: " + MySCP.Tel;
+                //comboBoxVelocity.Text = MySCP.Velocity.ToString();
+            }
+            else
+            {
+                labelDevice.ForeColor = System.Drawing.Color.Red;
+                labelDevice.Text = "No device detected,Check connection and refresh!";
+                labelUID.Text = "UID: ";
+                labelVendor.Text = "Developer: Graycode Team";
+                linkLabel.Text = "Graycode Team";
+                labelEmail.Text = "Email: graycode(at)qq.com";
+                labelTel.Text = "WeChat: graycode";
+                UartUninitial();//关闭串口
+            }
+        }
         private void comboBoxcomPort_SelectedValueChanged(object sender, EventArgs e)
         {
             tabControl1.SelectedIndex = 0;
@@ -329,55 +348,24 @@ namespace ASCOM.SSFocuser
             try
             {
                 MySCP.ComPort = (string)comboBoxcomPort.SelectedItem;
+                //MessageBox.Show(MySCP.ComPort);
                 MySCP.UartInitial();
                 if (MySCP.Connected)
                 {
                     //查询版本信息
                     if (MySCP.CheckDevice())
-                    {
-                        labelDevice.ForeColor = System.Drawing.Color.Black;
-                        labelDevice.Text = "Device: " + MySCP.Device;
-                        labelVendor.Text = "Company: " + MySCP.Vendor;
-                        linkLabel.Text = MySCP.Website;
-                        labelEmail.Text = "Email: " + MySCP.Email;
-                        labelTel.Text = "Tel: " + MySCP.Tel;
-                        comboBoxVelocity.Text = MySCP.Velocity.ToString();
-                    }
+                        ShowLabel(true);
                     else
-                    {
-                        labelDevice.ForeColor = System.Drawing.Color.Red;
-                        labelDevice.Text = "No device detected,Check connection and refresh!";
-                        labelVendor.Text = "Developer: Graycode Team";
-                        linkLabel.Text = "Graycode Team";
-                        labelEmail.Text = "Email: graycode(at)qq.com";
-                        labelTel.Text = "WeChat: graycode";
-
-                        UartUninitial();
-                    }
+                        ShowLabel(false);
                 }
                 else//这里不用UartUninitial();初始化未成功会自动关闭
-                {
-                    labelDevice.ForeColor = System.Drawing.Color.Red;
-                    labelDevice.Text = "No device detected,Check connection and refresh!";
-                    labelVendor.Text = "Developer: Graycode Team";
-                    linkLabel.Text = "Graycode Team";
-                    labelEmail.Text = "Email: graycode(at)qq.com";
-                    labelTel.Text = "WeChat: graycode";
-                }
+                    ShowLabel(false);
             }
             //catch (IOException ex)
             catch (Exception ex)
             {
                 ErrorInfo = ex.ToString();
-                labelDevice.ForeColor = System.Drawing.Color.Red;
-                labelDevice.Text = "No device detected,Check connection and refresh!";
-                labelVendor.Text = "Developer: Graycode Team";
-                linkLabel.Text = "Graycode Team";
-                labelEmail.Text = "Email: graycode(at)qq.com";
-                labelTel.Text = "WeChat: graycode";
-
-                UartUninitial();
-                
+                ShowLabel(false);
             }
         }
 

@@ -92,10 +92,10 @@
             this.linkLabel.AutoSize = true;
             this.linkLabel.Location = new System.Drawing.Point(71, 209);
             this.linkLabel.Name = "linkLabel";
-            this.linkLabel.Size = new System.Drawing.Size(95, 12);
+            this.linkLabel.Size = new System.Drawing.Size(83, 12);
             this.linkLabel.TabIndex = 59;
             this.linkLabel.TabStop = true;
-            this.linkLabel.Text = "www.graycode.cn";
+            this.linkLabel.Text = "Graycode Team";
             this.linkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel_LinkClicked);
             // 
             // labelWebsite
